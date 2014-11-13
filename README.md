@@ -1,4 +1,4 @@
-Hackathon Ideas
+Hack Ideas
 ==============
 
-My place to compile and think through various project ideas before heading to MHacks IV September 5-7, 2014. 
+These ideas are generally intended for brainstorming hackathon projects; some may be more useful than others. If you have an idea, open an issue! If you want to work on a project, go for it!
